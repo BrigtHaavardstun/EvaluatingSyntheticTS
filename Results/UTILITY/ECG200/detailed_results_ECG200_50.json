@@ -1,0 +1,97 @@
+{
+    "REAL": {
+        "REAL": {
+            "TSForest": {
+                "Accuracy": 0.87,
+                "F1-Score": 0.8561787808385883,
+                "AUC": 0.8498263888888888
+            },
+            "MultiROCKET": {
+                "Accuracy": 0.9,
+                "F1-Score": 0.8914930555555556,
+                "AUC": 0.8914930555555556
+            },
+            "MiniROCKET": {
+                "Accuracy": 0.9,
+                "F1-Score": 0.8901098901098901,
+                "AUC": 0.8854166666666667
+            }
+        }
+    },
+    "RNN_VAE": {
+        "SYNTHETIC": {
+            "TSForest": {
+                "Accuracy": 0.78,
+                "F1-Score": 0.7512437810945274,
+                "AUC": 0.7430555555555556
+            },
+            "MultiROCKET": {
+                "Accuracy": 0.64,
+                "F1-Score": 0.3902439024390244,
+                "AUC": 0.5
+            },
+            "MiniROCKET": {
+                "Accuracy": 0.66,
+                "F1-Score": 0.5200451722190853,
+                "AUC": 0.5520833333333334
+            }
+        }
+    },
+    "timeGAN": {
+        "SYNTHETIC": {
+            "TSForest": {
+                "Accuracy": 0.69,
+                "F1-Score": 0.6615351020853806,
+                "AUC": 0.6605902777777778
+            },
+            "MultiROCKET": {
+                "Accuracy": 0.72,
+                "F1-Score": 0.6047430830039526,
+                "AUC": 0.6171875
+            },
+            "MiniROCKET": {
+                "Accuracy": 0.78,
+                "F1-Score": 0.7328800388538126,
+                "AUC": 0.71875
+            }
+        }
+    },
+    "CGAN": {
+        "SYNTHETIC": {
+            "TSForest": {
+                "Accuracy": 0.76,
+                "F1-Score": 0.75,
+                "AUC": 0.7638888888888888
+            },
+            "MultiROCKET": {
+                "Accuracy": 0.58,
+                "F1-Score": 0.3670886075949367,
+                "AUC": 0.453125
+            },
+            "MiniROCKET": {
+                "Accuracy": 0.79,
+                "F1-Score": 0.7304582210242587,
+                "AUC": 0.7144097222222222
+            }
+        }
+    },
+    "cBetaVAE": {
+        "SYNTHETIC": {
+            "TSForest": {
+                "Accuracy": 0.36,
+                "F1-Score": 0.2647058823529412,
+                "AUC": 0.5
+            },
+            "MultiROCKET": {
+                "Accuracy": 0.36,
+                "F1-Score": 0.2647058823529412,
+                "AUC": 0.5
+            },
+            "MiniROCKET": {
+                "Accuracy": 0.36,
+                "F1-Score": 0.2647058823529412,
+                "AUC": 0.5
+            }
+        }
+    }
+}

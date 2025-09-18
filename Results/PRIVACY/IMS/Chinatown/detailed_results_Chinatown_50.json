@@ -1,0 +1,18 @@
+{
+    "RNN_VAE": {
+        "SUM": 0.0,
+        "AVG": 0.0
+    },
+    "timeGAN": {
+        "SUM": 0.0,
+        "AVG": 0.0
+    },
+    "CGAN": {
+        "SUM": 0.0,
+        "AVG": 0.0
+    },
+    "cBetaVAE": {
+        "SUM": 0.0,
+        "AVG": 0.0
+    }
+}

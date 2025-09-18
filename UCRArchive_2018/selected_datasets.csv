@@ -1,0 +1,7 @@
+dataset_name,num_rows,ts_length,nr_instances,count_labels
+Chinatown,20,24,20,2
+ItalyPowerDemand,67,24,67,2
+SmoothSubspace,150,15,150,3
+Coffee,28,286,28,2
+GunPoint,50,150,50,2
+ECG200,100,96,100,2
